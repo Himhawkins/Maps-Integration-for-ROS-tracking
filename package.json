@@ -1,0 +1,26 @@
+{
+  "name": "overlay",
+  "dependencies": {
+    "ol": "6.1.1"
+  },
+  "devDependencies": {
+    "parcel": "1.11.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build --experimental-scope-hoisting --public-url . index.html"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "mapInteriit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan-jaiswal/UAV_Fleet_Challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aryan-jaiswal/UAV_Fleet_Challenge/issues"
+  },
+  "homepage": "https://github.com/Aryan-jaiswal/UAV_Fleet_Challenge#readme"
+}
